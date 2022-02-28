@@ -22,7 +22,6 @@ C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.Ident
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -58,3 +57,4 @@ C:\Users\Arvin\source\repos\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.dll
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\obj\Debug\net5.0\ref\DatingApp.dll
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.pdb
 C:\Users\Arvin\source\repos\DatingApp\DatingApp\obj\Debug\net5.0\DatingApp.genruntimeconfig.cache
+C:\Users\Arvin\source\repos\DatingApp\DatingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
